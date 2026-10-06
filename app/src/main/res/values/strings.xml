@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iOS Клавиатура</string>
+    <string name="keyboard_name">iOS Клавиатура</string>
+    <string name="subtype_ru">Русский</string>
+    <string name="subtype_en">English</string>
+</resources>
